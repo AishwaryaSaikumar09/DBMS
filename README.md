@@ -12,3 +12,5 @@ What are the customers  performing well by clearing the accrued interest before 
 What are the customers performing poorly by not clearing the accrued interest before placing further orders?
 
 The solution required are refined requirement to facilitate modeling, ERD (Conceptual, Logical, and Physical), Database object creation, Sample Data creation, Queries to answer the five questions, and result.
+
+Look into the word file: https://github.com/AishwaryaSaikumar09/DBMS/blob/main/Aishwarya%20Saikumar.docx for Answers
